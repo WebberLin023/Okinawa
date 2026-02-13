@@ -1,0 +1,43 @@
+﻿day_id,time,icon,tag,title,desc,note,plan_b,slot
+day1,14:25,plane,traffic,抵達那霸機場,入境、領行李，前往1F外搭乘 OTS 接駁車。,備好預約單,,
+day1,16:00,car,traffic,OTS 臨空豐崎 取車,檢查車況、安裝汽座。導航設定：許田休息站。,記得買保險,,
+day1,16:30,moon,nap,北上移動 (補眠),【午睡黃金檔】車程約1.5hr，小孩剛好補飛機上的眠。,走高速公路,,
+day1,17:40,shopping-bag,shop,許田休息站 / 下午茶,必做：買水族館優惠票。必吃：10円饅頭、炸天婦羅。,只收現金居多,Blue Seal 名護店,d1_cafe
+day1,19:00,utensils,food,晚餐：飯店附近,推薦：A&W 漢堡 (美式) 或 美ら花 (親子友善沖繩料理)。,都有兒童椅,Chura-Hana / Nakama Steak,d1_dinner
+day1,20:30,moon,nap,回飯店休息,【已取消唐吉訶德】早點回飯店洗澡睡覺，養足精神。,樓下全家,,
+day2,09:30,coffee,food,買麵包：Pain de Kaito,名護名店，買好帶去水族館野餐。,紅豆麵包好吃,宮里 Soba,d2_breakfast
+day2,10:10,fish,spot,美麗海水族館,停車停 P7。攻略請看「美麗海」分頁。,可蓋章再入館,,
+day2,13:40,utensils,food,午餐：Hanasaki Marche,離水族館5分鐘。Plan A: 海邦丸(海鮮丼)。,也有星巴克,Benson's Hotdog / 88牛排,d2_lunch
+day2,14:30,moon,nap,午睡：ZHYVAGO COFFEE,【爸媽充電站】海景第一排，推車直接推入睡覺，爸媽喝咖啡。,工業風好拍,Starbucks (Hanasaki),d2_cafe
+day2,17:00,camera,spot,古宇利海洋塔,搭乘無人自動遊園車上山，敲幸福鐘，看絕美海景。,門票含車資,,
+day2,18:30,utensils,food,晚餐：名護市區,改回市區吃。推薦：燒肉乃我那霸 (新館) 或 阿古豬火鍋。,需預約,Restaurant Flipper (現金),d2_dinner
+day3,10:00,train,spot,名護動植物園 (Neo Park),進門直接搭「復古輕軌小火車」，輕鬆逛園區，鳥類放養。,可買飼料,,
+day3,11:30,utensils,food,午餐：浜の家 海鮮料理,⚠️務必11:30前抵達。必點：黃油烤魚定食 (配飯神器)。,榻榻米位,恩納之驛 / 中村 Soba,d3_lunch
+day3,13:30,shopping-bag,shop,AEON Rycom (來客夢),【避暑購物】沖繩最大百貨。1F有巨大水族箱(免費看)，4F有寶可夢中心。,冷氣強很好逛,,
+day3,14:30,moon,nap,商場午睡,推車好推，爸媽輪流逛 Uniqlo/Bic Camera/3COINS。,育嬰室在4F,,
+day3,17:30,home,hotel,Nikko Alivila 入住,Check-in。趁日落前去 Nirai Beach 玩沙 (天然沙灘)。,有室內泳池,,
+day3,19:00,utensils,food,晚餐：讀谷村周邊,Plan A: Hana Hana (飯店自助餐)。,也可吃Gala,Gala 青海 / 金月沖繩麵,d3_dinner
+day4,09:30,sun,park,中城公園 / 飯店玩水,想放電去中城公園 (白色彈跳床)。想悠閒則留在飯店玩泳池。,停南口停車場,雨備：飯店兒童室,
+day4,12:00,utensils,food,午餐：美國村周邊,推薦：Taco Rice Cafe Kijimuna (歐姆蛋塔可飯)。,二樓有座位,豬肉蛋飯糰 / Red Lobster,d4_lunch
+day4,14:30,moon,nap,美國村午睡 / 咖啡,下午太熱，進美國村內的 AEON 北谷店或找間海景咖啡廳休息。,可買甜甜圈,Seaside Cafe Hanon,d4_cafe
+day4,17:00,camera,spot,美國村日落,Sunset Beach 看夕陽，充滿異國風情，適合拍照。,很好拍,,
+day4,18:30,utensils,food,晚餐：美國村內,選擇多氣氛好。推薦：Chatan Steam Seafood (蒸氣海鮮)。,週末有煙火,A&W 北谷店 / 迴轉壽司,d4_dinner
+day5,10:00,check-square,hotel,飯店退房,離開 Alivila，前往沖繩市(兒童王國)。,車程約40分,,
+day5,10:40,train,spot,沖繩兒童王國 (Zoo),【主行程】結合動物園與神奇博物館。地形起伏大，請善用遊園車。,有獅子/大象,備案：AEON Rycom,
+day5,13:00,utensils,food,午餐：園區內或附近,園區有簡單餐廳，或開車去附近的 Birdland Cafe。,兒童王國餐廳,Birdland Cafe / Rycom,d5_lunch
+day5,14:30,shopping-bag,nap,PARCO CITY (午睡),【最新海景百貨】開車20分鐘即達。3F 逛 2nd Street (二手挖寶)。,冷氣超強,Blue Seal / Gong Cha,d5_cafe
+day5,17:30,home,hotel,入住 Hotel Alacooju,從 PARCO 開過來只要 10 分鐘。Check-in 休息。,新飯店,,
+day5,18:30,shopping-bag,shop,Birthday 港川店,吃飽後若來得及可逛一下 (營業至19:00或20:00)，或改隔天早上。,媽媽戰場,,
+day5,19:00,utensils,food,晚餐：浦添周邊,推薦：燒肉王(Yakiniku King) 浦添店，親子友善吃到飽。,連鎖店品質穩,Hama Sushi / Teida Soba,d5_dinner
+day6,10:00,sun,park,浦添大公園 (C區),睡飽再出門。C區有幼兒遊具，就在高速公路旁。,不去長溜滑梯,,
+day6,12:00,utensils,food,午餐：那霸新都心,順路南下，推薦：黑船鰻魚飯 (Apple Town)，旁邊有玩具反斗城。,好停車,Maguroya Hompo,d6_lunch
+day6,14:00,car,nap,移動午睡 (往南部),逛累了上車午睡，開車前往南部 Outlet 方向。,車程約40分,,
+day6,14:40,shopping-bag,shop,Ashibinaa Outlet / iias,南部 Outlet 區。逛街或繼續吹冷氣。,對面就是,iias 豐崎,d6_cafe
+day6,16:30,sun,park,豐崎彩虹公園,Outlet 旁。看飛機起降的溜滑梯公園。,適合傍晚,,
+day6,18:00,utensils,food,晚餐：國際通周邊,推薦：Mikado (美加多) 24H 定食，或 Jack's 牛排。,平價好吃,Jumbo Steak Han's,d6_dinner
+day6,19:30,shopping-bag,shop,國際通散步,最後採買伴手禮 (御菓子御殿)、逛唐吉訶德。,停 Palette Kumoji,,
+day7,10:00,check-square,hotel,準時退房,檢查行李，出發往南部。,不要遺漏,,
+day7,11:00,utensils,food,早午餐：糸滿漁民食堂,⚠️務必10:50到達排隊。必點：鮮魚湯、奶油烤魚。,排太長就走,iias 豐崎美食街,d7_lunch
+day7,12:15,car,traffic,OTS 臨空豐崎 還車,預留 15-20 分鐘驗車，然後搭乘接駁車去機場。,加滿油再還,,
+day7,13:00,plane,traffic,機場逛街 / 下午茶,逛國內線商店街。買福助玉子燒、豬肉蛋飯糰。,國內線好逛,福助玉子燒 / 飯糰,d7_cafe
+day7,15:35,plane,nap,飛機起飛,【完美時差】小孩上機秒睡，爸媽輕鬆回台灣。,平安回家,,
